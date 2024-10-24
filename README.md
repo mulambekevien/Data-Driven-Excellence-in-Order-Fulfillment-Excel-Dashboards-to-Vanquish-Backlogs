@@ -2,7 +2,7 @@
 
 Master the art of utilizing Microsoft Excel to streamline and perfect order fulfillment within your supply chain operations. Through this hands-on experience, you'll harness the capabilities of Excel, delving into the creation of dynamic and interactive dashboards, all while leveraging intermediate and advanced Excel functions to achieve unparalleled optimization.
 
-Here is alink to the project, I used Google Sheets in creating the project: https://docs.google.com/spreadsheets/d/14vPVQrc2Yv7-64uFtvggTu2zVzrqy_Ad/edit?usp=sharing&ouid=117974135312926217893&rtpof=true&sd=true
+Here is alink to the project, I used Google Sheets in creating the project: https://docs.google.com/spreadsheets/d/14vPVQrc2Yv7-64uFtvggTu2zVzrqy_Ad/edit?gid=883446118#gid=883446118
 
 ## Key learning points
 
